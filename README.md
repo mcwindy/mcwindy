@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Visit Count 🌱
+![Visitor Count](https://profile-counter.glitch.me/mcwindy/count.svg)
+
 <!--
 **mcwindy/mcwindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
