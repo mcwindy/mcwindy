@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 This is @mcwindy!
+
+### 🍉 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=c,python,rust,cpp,qt,ts,vue,pinia,js,bootstrap,html,css,nodejs,jquery,flask,django,selenium,pytorch,tensorflow,opencv,electron,tauri,elasticsearch)](https://skillicons.dev)
+
+### 🔨 Tools I Use
+[![My Tools](https://skillicons.dev/icons?i=sqlite,redis,postgresql,docker,nginx,git,npm,pnpm,yarn,vite,webpack,babel,cmake,vscode,anaconda,ubuntu,postman,github,githubactions,aws,azure,gcp,cloudflare)](https://skillicons.dev)
 
 ### Visit Count 🌱
 ![Visitor Count](https://profile-counter.glitch.me/mcwindy/count.svg)
