@@ -6,6 +6,8 @@
 ### 🔨 Tools I Use
 [![My Tools](https://skillicons.dev/icons?i=sqlite,redis,postgresql,docker,nginx,git,npm,pnpm,yarn,vite,webpack,babel,cmake,vscode,anaconda,ubuntu,postman,github,githubactions,aws,azure,gcp,cloudflare)](https://skillicons.dev)
 
+<img src="https://stats.wkit.fun/api/toplangs?username=mcwindy&count=10" style="width:592px" />
+
 ### Visit Count 🌱
 ![Visitor Count](https://profile-counter.glitch.me/mcwindy/count.svg)
 
@@ -23,5 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://stats.wkit.fun/api/toplangs?username=mcwindy&count=10" style="width:592px" />
